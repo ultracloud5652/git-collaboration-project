@@ -19,6 +19,7 @@ mkdir git-project
 cd git-project
 git init
 ```
+![Screenshot 2025-04-02 at 9 39 54 AM](https://github.com/user-attachments/assets/f88b4c3b-8f4d-4716-9266-6104c0643a87)
 
 ### 2. Create an index.html File
 ### Create an index.html file and add the following structure:
@@ -34,6 +35,7 @@ git init
 </body>
 </html>
 ```
+![Screenshot 2025-04-02 at 9 40 31 AM](https://github.com/user-attachments/assets/cdb0cb2f-5575-41e8-a14c-3c46ceec533f)
 
 ### Commit the file:
 
@@ -72,6 +74,7 @@ git checkout tom
     </ul>
 </nav>
 ```
+![Screenshot 2025-04-02 at 9 41 01 AM](https://github.com/user-attachments/assets/7bbc6447-d58b-4145-98ab-6674e18937e6)
 
 #### Commit the change:
 
@@ -101,6 +104,7 @@ git checkout jerry
 git add index.html
 git commit -m "Added footer contact information"
 ```
+![Screenshot 2025-04-02 at 9 41 33 AM](https://github.com/user-attachments/assets/a9a2ddeb-ce6c-407d-8412-a36d4aced495)
 
 ## Merging Changes
 
