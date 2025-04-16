@@ -164,6 +164,7 @@ git remote add origin <repository-url>
 git push -u origin main
 ```
 
+![Screenshot 2025-04-16 at 12 16 06 PM](https://github.com/user-attachments/assets/e7252912-9bd5-4ad5-8105-814e9007c722)
 
 ## Verification
 
